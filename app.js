@@ -4,4 +4,4 @@ const app = express();
 
 //Routes
 
-app.get('/', (req,res))
+app.get('/', (req,res));dkt whi 
